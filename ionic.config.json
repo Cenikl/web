@@ -1,0 +1,8 @@
+{
+  "name": "Webscrap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "831afd6e"
+}
